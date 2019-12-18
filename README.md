@@ -1,0 +1,2 @@
+# infiniband-script
+setup infiniband
